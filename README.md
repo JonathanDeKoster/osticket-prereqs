@@ -48,6 +48,63 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![OS Ticket Setup 5](https://github.com/user-attachments/assets/8cac0e3c-3d5e-4824-870e-16ab30bcaeea)
 
 
+![OS Ticket Setup 6](https://github.com/user-attachments/assets/8a24e127-72f5-4ae9-a942-a19f532992ab)
+
+
+![OS Ticket Setup 7](https://github.com/user-attachments/assets/a9a4e433-4e90-4d23-a64e-3e9ff0ad0688)
+
+
+![OS Ticket Setup 8](https://github.com/user-attachments/assets/c6536fd6-d0f2-4adf-8dfb-d24b225ab910)
+
+
+![OS Ticket Setup 9](https://github.com/user-attachments/assets/7166cfaa-c417-4809-8034-772fe2c8a199)
+
+![OS Ticket Setup 10](https://github.com/user-attachments/assets/b2661ca0-77da-4f80-84f5-52c0673d9fd1)
+
+![OS Ticket Setup 11](https://github.com/user-attachments/assets/0cd9580b-8125-42ff-9959-abad56e885ab)
+
+![OS Ticket Setup 12](https://github.com/user-attachments/assets/c2923a73-d8c1-46c3-8fc4-4be7caa9d751)
+
+![OS Ticket Setup 13](https://github.com/user-attachments/assets/9b705a8a-88ba-4ecc-b4c9-37b4907d76a1)
+
+![OS Ticket Setup 14](https://github.com/user-attachments/assets/4c4c0858-39d9-486b-bd25-abd8cdcedb57)
+
+![OS Ticket Setup 15](https://github.com/user-attachments/assets/797b172a-fc82-4c9a-908f-3ae68bf99f62)
+
+![OS Ticket Setup 16](https://github.com/user-attachments/assets/e234aa6a-e213-468f-9f88-a0287105904f)
+
+![OS Ticket Setup 17](https://github.com/user-attachments/assets/e77602bc-14a5-4f99-9827-8a6777300ce7)
+
+![OS Ticket Setup 18](https://github.com/user-attachments/assets/b6933a24-3c9e-49e6-ac03-9ac797a9b528)
+
+
+![OS Ticket Setup 19](https://github.com/user-attachments/assets/644ae224-bc86-4857-b28d-d4b0c0e57681)
+
+
+![OS Ticket Setup 20](https://github.com/user-attachments/assets/f4389faa-a498-4c31-a4a8-24ddc977c6f3)
+
+![OS Ticket Setup 21](https://github.com/user-attachments/assets/5f26fb23-d6aa-4ad2-b1f1-8626a039d438)
+
+![OS Ticket Setup 22](https://github.com/user-attachments/assets/51c9e3ea-09bc-4fc3-a9d6-3ea78d67a060)
+
+![OS Ticket Setup 23](https://github.com/user-attachments/assets/b2cd897c-c8b8-43ed-9f4b-375bface2359)
+
+
+![OS Ticket Setup 24](https://github.com/user-attachments/assets/e31aa7cd-5659-4741-ba8b-560c886df3f9)
+
+
+![OS Ticket Setup 25](https://github.com/user-attachments/assets/5dfce464-9ece-4ed8-b513-3d2c157bfe6d)
+
+
+
+![OS Ticket Setup 26](https://github.com/user-attachments/assets/230d0b79-6bcb-41d6-a534-798bd2f487c9)
+
+![OS Ticket Setup 27](https://github.com/user-attachments/assets/d3cfe18c-220e-4aef-a2b5-2807749ab2f2)
+
+
+![OS Ticket Setup 28](https://github.com/user-attachments/assets/22ecefb0-a186-46bc-8788-a55e7a3a7ddd)
+
+![Os Ticket Setup 29](https://github.com/user-attachments/assets/9dbd2b87-3930-4fee-a74c-74955092a4bd)
 
 
 
