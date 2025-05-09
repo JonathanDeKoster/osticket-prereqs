@@ -6,9 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,11 +19,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Setup a virtual machine in Azure
+- Install the OS Ticket requirements
+- Install OS Ticket itself
 
 
 
@@ -35,14 +30,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![OS Ticket Setup](https://github.com/user-attachments/assets/afe23a0e-6341-4de7-a9b4-2c11f976977a)
 
+1. Create a virtual machine in Azure (OS-Ticket-VM)
 
 ![OS Ticket Setup 2](https://github.com/user-attachments/assets/8e89d4d6-e755-45f5-93fe-1d744b530ccc)
 
+2. Find the public IP address (20.186.18.217)
 
 ![OS Ticket Setup 3](https://github.com/user-attachments/assets/20c22800-c6f1-449c-9228-56af40441397)
 
+3. Log in to the virtual machine using Remote Desktop Connection and the username and password created when setting up the virtual machine
 
+![OS Ticket Setup addin](https://github.com/user-attachments/assets/e9b150e4-4f18-4ac5-ba71-e76561ce83bb)
+
+4. Download OS Ticket
+   
 ![OS Ticket Setup 4](https://github.com/user-attachments/assets/2215e6b7-5421-45f5-b4b9-004ba39996f8)
+
 
 
 ![OS Ticket Setup 5](https://github.com/user-attachments/assets/8cac0e3c-3d5e-4824-870e-16ab30bcaeea)
