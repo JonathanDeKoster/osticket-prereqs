@@ -50,9 +50,9 @@ We will use the files in this folder to install osTicket and some of the depende
 
 ![OS Ticket Setup 5](https://github.com/user-attachments/assets/8cac0e3c-3d5e-4824-870e-16ab30bcaeea)
 
-*5. Install / Enable IIS in Windows WITH CGI
+*5. Install / Enable IIS in Windows WITH CGI*
    
-   Open Windows Features through the Control Panel - Programs - Windows Features
+   *Open Windows Features through the Control Panel - Programs - Windows Features
    Navigate to Internet Information Services - Worldwide Web Services - Application Development Features-
    Turn on the CGI*
 
@@ -76,16 +76,14 @@ We will use the files in this folder to install osTicket and some of the depende
    
 ![OS Ticket Setup 10](https://github.com/user-attachments/assets/b2661ca0-77da-4f80-84f5-52c0673d9fd1)
 
-*10. Run the VC redistributable file*
+*10. Run and setup the VC redistributable file*
 
 ![OS Ticket Setup 11](https://github.com/user-attachments/assets/0cd9580b-8125-42ff-9959-abad56e885ab)
 
-*11. Run and setup MySQL
-Typical Setup ->
-Launch Configuration Wizard (after install) ->
-Standard Configuration ->
-Username: root
-Password: root*
+*11. Run and setup MySQL*
+*Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration ->* 
+*Username: root*
+*Password: root*
 
 
 ![OS Ticket Setup 12](https://github.com/user-attachments/assets/c2923a73-d8c1-46c3-8fc4-4be7caa9d751)
@@ -97,13 +95,25 @@ Password: root*
 
 ![OS Ticket Setup 13](https://github.com/user-attachments/assets/9b705a8a-88ba-4ecc-b4c9-37b4907d76a1)
 
+*13. Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)*
+
+
+
 ![OS Ticket Setup 14](https://github.com/user-attachments/assets/4c4c0858-39d9-486b-bd25-abd8cdcedb57)
+
+
+*14. From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip”*
 
 ![OS Ticket Setup 15](https://github.com/user-attachments/assets/797b172a-fc82-4c9a-908f-3ae68bf99f62)
 
-![OS Ticket Setup 16](https://github.com/user-attachments/assets/e234aa6a-e213-468f-9f88-a0287105904f)
 
+ *15. Copy the “upload” folder into “c:\inetpub\wwwroot”*
+
+![OS Ticket Setup 16](https://github.com/user-attachments/assets/e234aa6a-e213-468f-9f88-a0287105904f)
+ *16. Rename “upload” to “osTicket”*
 ![OS Ticket Setup 17](https://github.com/user-attachments/assets/e77602bc-14a5-4f99-9827-8a6777300ce7)
+
+*17. Install osTicket v1.15.8*
 
 ![OS Ticket Setup 18](https://github.com/user-attachments/assets/b6933a24-3c9e-49e6-ac03-9ac797a9b528)
 
