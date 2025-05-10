@@ -113,40 +113,90 @@ We will use the files in this folder to install osTicket and some of the depende
  *16. Rename “upload” to “osTicket”*
 ![OS Ticket Setup 17](https://github.com/user-attachments/assets/e77602bc-14a5-4f99-9827-8a6777300ce7)
 
-*17. Install osTicket v1.15.8*
+*17. *Reload IIS*
+
+*Go to sites -> Default -> osTicket*
+*On the right, click “Browse *:80”*
+
 
 ![OS Ticket Setup 18](https://github.com/user-attachments/assets/b6933a24-3c9e-49e6-ac03-9ac797a9b528)
+
+*Double-click PHP Manager*
+*Click “Enable or disable an extension”*
+*Enable: php_imap.dll*
+*Enable: php_intl.dll*
+*Enable: php_opcache.dll*
 
 
 ![OS Ticket Setup 19](https://github.com/user-attachments/assets/644ae224-bc86-4857-b28d-d4b0c0e57681)
 
+*Rename: ost-config.php*
+*From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php*
+*To: C:\inetpub\wwwroot\osTicket\include\ost-config.php*
+
 
 ![OS Ticket Setup 20](https://github.com/user-attachments/assets/f4389faa-a498-4c31-a4a8-24ddc977c6f3)
 
+
 ![OS Ticket Setup 21](https://github.com/user-attachments/assets/5f26fb23-d6aa-4ad2-b1f1-8626a039d438)
 
+*Assign Permissions: ost-config.php*
+*Disable inheritance -> Remove All*
+*New Permissions -> Everyone -> All*
+
+
 ![OS Ticket Setup 22](https://github.com/user-attachments/assets/51c9e3ea-09bc-4fc3-a9d6-3ea78d67a060)
+
+
+*Continue Setting up osTicket in the browser*
 
 ![OS Ticket Setup 23](https://github.com/user-attachments/assets/b2cd897c-c8b8-43ed-9f4b-375bface2359)
 
 
+*From the “osTicket-Installation-Files” folder, install HeidiSQL.*
+*Open Heidi SQL*
+
+
+
+
 ![OS Ticket Setup 24](https://github.com/user-attachments/assets/e31aa7cd-5659-4741-ba8b-560c886df3f9)
+
+*Create a new session, root/root*
+
 
 
 ![OS Ticket Setup 25](https://github.com/user-attachments/assets/5dfce464-9ece-4ed8-b513-3d2c157bfe6d)
+
+*Connect to the session*
+*Create a database called “osTicket”*
 
 
 
 ![OS Ticket Setup 26](https://github.com/user-attachments/assets/230d0b79-6bcb-41d6-a534-798bd2f487c9)
 
+
+*Continue Setting up osTicket in the browser*
+*MySQL Database: osTicket*
+*MySQL Username: root*
+*MySQL Password: root*
+*Click “Install Now!”*
+
+
+
+
+
 ![OS Ticket Setup 27](https://github.com/user-attachments/assets/d3cfe18c-220e-4aef-a2b5-2807749ab2f2)
+
+*Congratulations! osTicket should now be installed*
 
 
 ![OS Ticket Setup 28](https://github.com/user-attachments/assets/22ecefb0-a186-46bc-8788-a55e7a3a7ddd)
 
+*Browse to your help desk login page: http://localhost/osTicket/scp/login.php*
+
 ![Os Ticket Setup 29](https://github.com/user-attachments/assets/9dbd2b87-3930-4fee-a74c-74955092a4bd)
 
-
+*Login to osTicket*
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
