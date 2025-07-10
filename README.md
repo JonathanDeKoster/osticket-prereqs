@@ -18,7 +18,7 @@ This repository provides a step-by-step guide to installing osTicket, an open-so
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Steps</h2>
 
 - Setup a virtual machine in Azure
 - Install the OS Ticket requirements
